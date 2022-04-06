@@ -10,3 +10,9 @@
 
 
 ![alt text](https://github.com/augustustung/counting_car_project/blob/master/result.png)
+
+
+
+
+# Wanna more interesting ?
+[check this out](https://github.com/augustustung/computer_version_zone_contest_1)
